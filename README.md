@@ -2,8 +2,7 @@
 
 Hi there, 
 
-My name is Kalle, in this repository you can see some of my data science/machine learning projects.
+My name is Kalle, this repository accompanies my personal website kallefischer.com.
+Here you can see the raw code and on the website you can read more detailed descriptions.
 
-The MNIST-ConvNet is part of a larger project that can be read at -WEBSITE-
-
-Enjoy!
+Thanks for visiting!
